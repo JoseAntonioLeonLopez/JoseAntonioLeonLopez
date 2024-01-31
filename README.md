@@ -9,7 +9,7 @@
 
 ## 💼 Experiencia
 
-- EVIDEN - Junior (10/01/2024 - Actual)
+- EVIDEN - Junior FullStack (10/01/2024 - Actual)
   - Mantener y añadir funcionalidades a un notebook para Bootcamps.
   - Trabajo en equipo de desarrollo.
 
