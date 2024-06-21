@@ -9,7 +9,7 @@
 
 ## 💼 Experiencia
 
-- EVIDEN - Junior FullStack (10/01/2024 - Actual)
+- EVIDEN - Junior FullStack (10/01/2024 - 16/06/2024)
   - Proyectos internos para Bootcamps con SpringBoot, SpringBoot Security, Angular y MySQL.
   - Proyectos internos con PHP, JavaScript, Ajax y MySQL.
 
