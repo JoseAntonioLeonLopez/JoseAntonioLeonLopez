@@ -38,5 +38,6 @@ Desarrollador de software Full Stack con experiencia en integración de IA y des
 
 - LinkedIn: [José Antonio León López](https://www.linkedin.com/in/jose-antonio-leon-lopez/)
 - Email: joseantonioleonlopez206@gmail.com
+- [Portfolio](https://joseantonioleonlopez.github.io/portfolio-joseleon/)
 
 ¡Gracias por visitar mi perfil! Estoy siempre buscando nuevos retos y oportunidades para aprender y crecer como desarrollador.
